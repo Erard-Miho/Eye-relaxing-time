@@ -1,0 +1,12 @@
+appdirs==1.4.4
+certifi==2020.6.20
+distlib==0.3.1
+filelock==3.0.12
+numpy==1.19.4
+opencv-python==4.4.0.46
+Pillow==8.0.1
+pipenv==2020.8.13
+psutil==5.7.3
+six==1.15.0
+virtualenv==20.0.31
+virtualenv-clone==0.5.4
